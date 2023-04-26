@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "352634689140",
+    "firebase_url": "https://rsp-database-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rsp-database",
+    "storage_bucket": "rsp-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352634689140:android:e664cf7deb86368f302321",
+        "android_client_info": {
+          "package_name": "com.example.rsp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352634689140-fkhlqqcpoqati1eqoedlrbhni1co5140.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxpDOOB2fJ1camuUqEom7yQbFKloHbm5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352634689140-fkhlqqcpoqati1eqoedlrbhni1co5140.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352634689140-t7r2spp58l6i8vc87rhhdlbkrhdrhcb6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rsp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
